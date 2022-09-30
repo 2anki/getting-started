@@ -1,4 +1,4 @@
-# 2anki.net/gettin-started
+# 2anki.net/getting-started
 
 This page lists links to all supported conversion formats / integrations for
 the 2anki.net project.
