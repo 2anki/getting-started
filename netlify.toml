@@ -1,7 +1,0 @@
-[[redirects]]
-  from = "/upload"
-  to = "https://2anki.net/upload"
-  status = 307
-  from = "/search"
-  to = "https://2anki.net/searh"
-  status = 307
